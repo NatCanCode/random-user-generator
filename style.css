@@ -6,9 +6,6 @@
 html{
     scroll-behavior: smooth;
 }
-.flex{
-    display: flex;
-}
 body{
     background-color: #322F3D;
     color: #4a4e69;
